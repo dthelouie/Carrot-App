@@ -1,5 +1,6 @@
 # README
 
+## App Store [link](https://itunes.apple.com/us/app/carrot-app/id1098910849?mt=8, "carrot-app")
 Hello, and welcome to Carrot App, the app developed to avoid a noisy social faux pas.  
 
 Is it too quiet to eat a carrot?  Carrot App takes the average decibel level of the room and notifies the user if it is loud enough to avoid disturbing the people around you.  Options for other noises are available at the bottom of your screen.
